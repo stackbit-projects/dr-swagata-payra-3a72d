@@ -4,11 +4,14 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Currently I am working as Assistant Professor at Birla Institute of Technology
+  (BIT) Mesra, Jaipur Campus. I have joined BIT in Jan' 2008. My current area of
+  research and teaching focuses on various aspect of aerosols, their optical
+  properties along with the particle size distribution, satellite data,
+  diagnostics and impacts of tropospheric aerosols over India with an emphasis
+  on Northwestern India. Understanding of fog formation and prediction is one of
+  my favourite subject. Apart from that, I also focus on climate change and
+  impacts.
 date: '2020-01-11'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
